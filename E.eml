@@ -1,0 +1,34 @@
+Return-Path: <spmgr@sncs.schsncs.com.cn>
+X-Original-To: datareceiver@olqc.schsncs.com.cn
+Delivered-To: datareceiver@olqc.schsncs.com.cn
+Received: from sncs.schsncs.com.cn (unknown [10.104.21.31])
+	by sncs.schsncs.com.cn (Postfix) with ESMTP id 81832E0053
+	for <datareceiver@olqc.schsncs.com.cn>; Mon, 13 Feb 2017 16:00:59 +0800 (CST)
+Date: Mon, 13 Feb 2017 17:01:02 +0900 (JST)
+From: spmgr@sncs.schsncs.com.cn
+To: datareceiver@olqc.schsncs.com.cn
+Message-ID: <1532126044.253331486972862854.JavaMail.tomcat@SHIDCSM01>
+Subject: QC DATA
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_25257_390821510.1486972862854"
+
+------=_Part_25257_390821510.1486972862854
+Content-Type: text/plain; charset=ISO-2022-JP
+Content-Transfer-Encoding: 7bit
+
+
+------=_Part_25257_390821510.1486972862854
+Content-Type: application/octet-stream; 
+	name="OnlineQC_[XN-10^17999][20170213160214].TXT"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment; 
+	filename="OnlineQC_[XN-10^17999][20170213160214].TXT"
+
+H|XN-10^AP795756^17999|1|UTC+08:00
+O|C|QC34|XN CHECK|Level1|QC-63611101|CLOSED|L-J|1
+R|1|20170213|160214|35|WBC^^2.98^E9/L\RBC^^2.41^E12/L\HGB^^61^g/L\HCT^^18.3^%\MCV^^75.9^fL\MCH^^25.3^pg\MCHC^^333^g/L\PLT^^75^E9/L\RDW-SD^^47.1^fL\RDW-CV^^17.2^%\PDW^^7.1^fL\MPV^^9.1^fL\P-LCR^^10.3^%\PCT^^0.07^%\WDF-X^^175.3^ch\WDF-Y^^124.7^ch\NEUT#^^1.16^E9/L\LYMPH#^^0.85^E9/L\MONO#^^0.55^E9/L\EO#^^0.28^E9/L\BASO#^^0.14^E9/L\NEUT%^^38.9^%\LYMPH%^^28.5^%\MONO%^^18.5^%\EO%^^9.4^%\BASO%^^4.7^%\NRBC#^^0.17^E9/L\NRBC%^^5.7^/100WBC\IG#^^0.29^E9/L\IG%^^9.7^%\WNR-X^^220.3^ch\WNR-Y^^174.2^ch\WBC-D^^2.88^E9/L\WNR-Z^^119.8^ch\WDF-Z^^130.1^ch
+L|1|N
+
+------=_Part_25257_390821510.1486972862854--
+

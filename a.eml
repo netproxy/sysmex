@@ -1,0 +1,32 @@
+Return-Path: <spmgr@sncs.schsncs.com.cn>
+X-Original-To: datareceiver@olqc.schsncs.com.cn
+Delivered-To: datareceiver@olqc.schsncs.com.cn
+Received: from sncs.schsncs.com.cn (unknown [10.104.21.32])
+	by sncs.schsncs.com.cn (Postfix) with ESMTP id E2592E004A
+	for <datareceiver@olqc.schsncs.com.cn>; Mon, 13 Feb 2017 15:49:25 +0800 (CST)
+Date: Mon, 13 Feb 2017 16:52:53 +0900 (JST)
+From: spmgr@sncs.schsncs.com.cn
+To: datareceiver@olqc.schsncs.com.cn
+Message-ID: <1535486294.253871486972373111.JavaMail.tomcat@SHIDCSM02>
+Subject: QC DATA
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_25316_764941548.1486972373110"
+
+------=_Part_25316_764941548.1486972373110
+Content-Type: text/plain; charset=ISO-2022-JP
+Content-Transfer-Encoding: 7bit
+
+
+------=_Part_25316_764941548.1486972373110
+Content-Type: application/octet-stream; name=OnlineQC001.TXT
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment; filename=OnlineQC001.TXT
+
+H|HISCL-5000^AF022051^A1270|2|GMT+08:00&n&
+O|C|11|Viratrol|Level 1|VRCN104|OPEN|L-J|1|1^HCVAb^CT^CS0021\2^^G3^ZS6011\3^^G4^ZS6011&n&
+R|1|20170213|154810|1|HCVAb^CT^8.8^C.O.I.&n&
+L|1|N&n&
+
+------=_Part_25316_764941548.1486972373110--
+
